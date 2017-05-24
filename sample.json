@@ -1,0 +1,57 @@
+{
+  "tip": {
+    "geolocation": {
+      "latitude": -23.558906434921578,
+      "longitude": -46.65928356349468
+    },
+    "status": "read",
+    "status_management": [],
+    "title": "Brindes e Lembrancinhas  -  Corporativo",
+    "customer": "Sou Novo Usuario",
+    "distance": "A 2km de você",
+    "address": ", São Paulo",
+    "infos": [
+      {
+        "label": "Quantos convidados são esperados?",
+        "value": [
+          "Médio Porte (Até 150 convidados)"
+        ]
+      },
+      {
+        "label": "Tipo de evento",
+        "value": [
+          "Corporativo"
+        ]
+      },
+      {
+        "label": "Para quando você precisa deste serviço?",
+        "value": [
+          "Hoje ou nos próximos dias"
+        ]
+      }
+    ],
+    "price": 1,
+    "phone": "(11) 9****-****",
+    "email": "u*******@usuario.com",
+    "request_id": 2054899,
+    "_links": {
+      "accept": {
+        "method": "POST",
+        "href": "http://chameleon.stage.getninjas.com.br/offers/222417-2054899/accept"
+      },
+      "reject": {
+        "method": "POST",
+        "href": "http://chameleon.stage.getninjas.com.br/offers/222417-2054899/reject"
+      },
+      "bundles": {
+        "method": "GET",
+        "href": "https://example.org/bundles"
+      }
+    }
+  },
+  "profile": {
+    "id": 222417,
+    "balance": 105,
+    "credits_ending": false
+  }
+}
